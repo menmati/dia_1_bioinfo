@@ -1,0 +1,1 @@
+print("Día 1 completado: Entorno configurado con éxito.")
